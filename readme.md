@@ -12,7 +12,7 @@ Release Information
 
 - Clone the repo
 - Open the console and cd to the project root directory.
-- Run composer update 
+- Run composer install 
 - Run php artisan serve --port=8080
 - Using postman or lunch in browser
 
